@@ -1,6 +1,6 @@
 # Project Title
 
-Testing Git & Github 
+Testing Git & Github, various commands
 
 ## Getting Started
 
