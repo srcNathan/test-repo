@@ -28,4 +28,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Credits and acknowledgments for those who contributed to the project.
+[Fixing credential for pushing when multiple accounts are used](https://www.reddit.com/r/git/comments/11t7mkj/git_push_is_asking_me_for_a_password_for_the/)
+    Use this:
+        [credential "https://github.com"]
+        username = <githubUsername>
