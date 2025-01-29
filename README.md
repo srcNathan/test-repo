@@ -1,6 +1,7 @@
 # Project Title
 
 Testing Git & Github, various commands, other fun stuff!
+Branch added
 
 ## Getting Started
 
